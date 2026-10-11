@@ -1,4 +1,4 @@
-# Cloud Security — Threat Detection with Machine Learning
+# Cloud Security - Threat Detection with Machine Learning
 
 > Academic mini-project (**P157**, ENSAM Casablanca, group **CS2C-7**): detecting malicious network activity with **Decision Tree** and **Random Forest** classifiers, as the detection layer a cloud SIEM could use to flag suspicious traffic. Experiments run on the **NSL-KDD** intrusion detection benchmark.
 
